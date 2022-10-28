@@ -1,4 +1,4 @@
-# spotify-billboard-timemachine
+
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -16,7 +16,7 @@
 
 
 
-<h3 align="center">Pong Game in Python</h3>
+<h3 align="center">Music Time Machine</h3>
 
 
 
