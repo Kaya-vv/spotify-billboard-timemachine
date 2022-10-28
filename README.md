@@ -71,7 +71,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Kaya van Vliet- - kayavanvliet@gmail.com
 
-Project Link: [https://github.com/Kaya-vv/pong-game-python](https://github.com/Kaya-vv/pong-game-pythone)
+Project Link: https://github.com/Kaya-vv/spotify-billboard-timemachine
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
